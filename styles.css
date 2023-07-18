@@ -1,0 +1,14 @@
+body{
+    background-color: chocolate;
+    font-family: "Times New Roman", sans-serif;
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+
+img{
+    margin: auto;
+    padding-left: 16rem;
+}
